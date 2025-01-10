@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JoyGope
-- 👀 I’m interested in Backend development
-- 🌱 I’m currently learning Java backend development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Joy Chandra Gope.
+- 👀 I’m interested in Backend development.
+- 🌱 I’m currently learning Java backend development.
+- 💞️ I’m looking to collaborate on innovative projects.
+- 📫 Reach me via joygopecse@gmail.com
 
 <!---
 JoyGope/JoyGope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
