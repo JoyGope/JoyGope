@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Joy Chandra Gope.
 - 👀 I’m interested in Backend development.
+- ✨ I'm working as a JAVA Developer in ECB Technologies.
 - 🌱 I’m currently learning Java backend development.
 - 💞️ I’m looking to collaborate on innovative projects.
 - 📫 Reach me via joygopecse@gmail.com
